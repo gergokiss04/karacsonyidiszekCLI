@@ -1,0 +1,18 @@
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyCLI\karacsonyCLI\bin\Debug\diszek.txt
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyCLI\karacsonyCLI\bin\Debug\karacsonyCLI.exe.config
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyCLI\karacsonyCLI\bin\Debug\karacsonyCLI.exe
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyCLI\karacsonyCLI\bin\Debug\karacsonyCLI.pdb
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.csproj.AssemblyReference.cache
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.exe
+C:\Users\Tanulo\Desktop\KGZS\Asztali alkalmazások\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.pdb
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyCLI\karacsonyCLI\karacsonyCLI\bin\Debug\diszek.txt
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyCLI\karacsonyCLI\karacsonyCLI\bin\Debug\karacsonyCLI.exe.config
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyCLI\karacsonyCLI\karacsonyCLI\bin\Debug\karacsonyCLI.exe
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyCLI\karacsonyCLI\karacsonyCLI\bin\Debug\karacsonyCLI.pdb
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyCLI\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.csproj.AssemblyReference.cache
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyCLI\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyCLI\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.csproj.CoreCompileInputs.cache
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyCLI\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.exe
+C:\Users\Kiss családi\Desktop\KANDÓ\2.Tanév\ASZTALI ALKALMAZÁSOK\karacsonyCLI\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.pdb
